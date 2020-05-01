@@ -1,2 +1,2 @@
-# Load-Forecasting-usinf-deep-learning
-House hold Electricity data
+# Load-Forecasting-using-deep-learning
+House hold Electricity data Time series prediction.
